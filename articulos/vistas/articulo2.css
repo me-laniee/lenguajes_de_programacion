@@ -1,0 +1,48 @@
+.articulo2{
+
+    padding: 20px   ;
+}
+.texto1{
+    font-size: 3rem;
+    margin-left: 8px;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo1{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    padding: 2%;
+}
+
+.subtitulo2{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    text-align: center;
+}
+
+.imgC{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+
+
+.img{
+    width: 25rem;
+    height: 14rem;
+}
+
+.lista1 {
+    text-align: center;
+}
+
+.subtitulo3{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    text-align: center;
+}
